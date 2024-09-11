@@ -36,7 +36,8 @@
 > [!IMPORTANT]
 > Create a bullet list of the dataset(s) you used, their source with a link, and their licence. Also, include 2 specific examples from your dataset(s); present these nicely.
 
-1.https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset
+1.https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset Creative Commons 4.0 Attribution (CC-BY) license – Quebec
+2.https://www.kaggle.com/datasets/mattop/fire-occurrence-and-cause-data-2000-2022 CC0: Public Domain
 
 ### Milestones
 
