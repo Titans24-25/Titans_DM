@@ -16,7 +16,7 @@
 1.
 2.
 3.
-4.
+4. Joel Joseph - @Joel449-gif - H00486705
 5.
 
 ## Initial Project Proposal
