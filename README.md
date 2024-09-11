@@ -17,7 +17,7 @@
 2. Maheshvara Madhan Regupathi -@Maheshvaramadhan- H00465501
 3. Oscar Vazquez - @ovazquez2024 - 061044612
 4. Joel Joseph - @Joel449-gif - H00486705
-5.
+5. Olafisoye Oladiran Oluwafiresanmi -@fisoye -HW00487738
 
 ## Initial Project Proposal
 
