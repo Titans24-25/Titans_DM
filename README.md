@@ -13,8 +13,8 @@
 > [!IMPORTANT]
 > Follow this format: `[Full Name] - @[GitHubUsername] - [HW Matriculation Number]`
 
-1.
-2.
+1. Ajith Vallat Nair - @Ajithhh0 - H00478904
+2. Maheshvara Madhan Regupathi -@Maheshvaramadhan- H00465501
 3. Oscar Vazquez - @ovazquez2024 - 061044612
 4. Joel Joseph - @Joel449-gif - H00486705
 5.
